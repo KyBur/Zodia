@@ -81,10 +81,31 @@ Zodia is a dating application that pays special attention to zodiac signs
 <img src="https://i.imgur.com/G5OEnhN.jpg" width=600>
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+#### Profile
+
+   | Property      | Type     | Description |
+   | ------------- | -------- | ------------|
+   | userID        | String   | unique id for user |
+   | name          | String   | name of user |
+   | images        | File     | images for users profile |
+   | bio           | String   | user description |
+   | location      | String   | description of user's city |
+   | tags          | String   | tags for user relevancy |
+   | zodiacSign    | String   | zodiac sign name |
+   | interactions  | List   | List of userIDs that user has already intereacted with |
+   | likes         | List   | List of userIDs that user has chosen to match with |
+
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+#### List of network requests by screen
+   - User Feed Screen
+      - (Read/GET) Query all profiles in user's area
+      - (Create/POST) Add users to interactions list
+      - (Create/POST) Add users to likes list
+
+   - Create Direct Message Screen
+      - (Create/POST) Create a new conversation with a matched user
+   - Profile Screen
+      - (Read/GET) Query logged in user object
+      - (Update/PUT) Update user profile photos
+
