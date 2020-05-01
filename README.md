@@ -108,4 +108,11 @@ Zodia is a dating application that pays special attention to zodiac signs
    - Profile Screen
       - (Read/GET) Query logged in user object
       - (Update/PUT) Update user profile photos
+      
+### Sprints
+#### Sprint 1
+
+- Create account UI
+
+<img src="https://i.imgflip.com/3zhbl8.gif" width=250><br>
 
