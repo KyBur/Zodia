@@ -118,5 +118,5 @@ Zodia is a dating application that pays special attention to zodiac signs
 
 <img src="https://i.imgflip.com/3zhbl8.gif" width=250><br>
 
-### Final Build for Presentation
+### Final Build Video for Presentation
 [![Watch the video](https://i.imgur.com/IPQ7wtb.png)](https://drive.google.com/file/d/1QA6uWDmAtsDUSpoqa0M5LuRfMLDzpLmZ/view)
