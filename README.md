@@ -79,6 +79,8 @@ Zodia is a dating application that pays special attention to zodiac signs
 ## Wireframes
 
 <img src="https://i.imgur.com/G5OEnhN.jpg" width=600>
+<img src="https://i.imgur.com/4zMFQNI.png" width=600>
+<img src="https://i.imgur.com/HzAy5FC.png" width=600>
 
 ## Schema 
 ### Models
@@ -116,3 +118,5 @@ Zodia is a dating application that pays special attention to zodiac signs
 
 <img src="https://i.imgflip.com/3zhbl8.gif" width=250><br>
 
+### Final Build for Presentation
+<iframe src="https://drive.google.com/file/d/1QA6uWDmAtsDUSpoqa0M5LuRfMLDzpLmZ/preview" width="640" height="480"></iframe>
