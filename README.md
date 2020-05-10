@@ -1,3 +1,5 @@
+{% include googleDrivePlayer.html id=page.driveId %}
+
 # Zodia
 
 ## Table of Contents
